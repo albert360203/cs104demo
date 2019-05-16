@@ -1,3 +1,6 @@
+helloworld
+*.dSYM/
+
 # Prerequisites
 *.d
 
